@@ -1,0 +1,21 @@
+{
+  "name": "log-parser",
+  "version": "1.0.0",
+  "description": "An app for parsing logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Akinduko Olugbenga Akinwumi",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "firebase-admin": "^6.3.0",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.22.2",
+    "nginx-log-parser": "^0.0.4",
+    "nginxparser": "^2.1.0",
+    "nodejs-tail": "^1.0.2",
+    "tail": "^2.0.1"
+  }
+}

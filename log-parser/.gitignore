@@ -1,0 +1,5 @@
+node_modules
+Dockerfile
+staging.json
+production.json
+config.json
